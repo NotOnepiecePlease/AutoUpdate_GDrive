@@ -2,6 +2,8 @@
 
 [![](https://i.imgur.com/rqUFGhz.png)](https://i.imgur.com/rqUFGhz.png)
 
+With the Google Drive API, you can build a simple and completely free auto-update system. All you need is to structure your routines properly to safely close the application, perform the update, and clean up any traces. This project will help you with the most challenging part: establishing the API connection, retrieving the updated file, and downloading it to the root folder. Enjoy!
+
 ## TUTORIAL
 
 **1 - Go to the Google API Dashboard:** [https://console.cloud.google.com/apis/dashboard](https://console.cloud.google.com/apis/dashboard)
